@@ -1,4 +1,4 @@
-# DezireHandler.js v1.0.0
+# DezireHandler.js v1.0.1
 Is one of the easiest command handlers for Discord.js V12 with alot of features from arguments, error messages, permissions and much more!
 
 ## DezireHandler Examples
@@ -17,7 +17,7 @@ Is one of the easiest command handlers for Discord.js V12 with alot of features 
 
 ## Install
 ```bash
-npm install dezirehandler@latest
+npm install dezirehandler.js@latest
 ```
 
 ## Example
