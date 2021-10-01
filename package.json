@@ -1,5 +1,5 @@
 {
-  "name": "dezirehandlerjs",
+  "name": "dezirehandler.js",
   "version": "1.0.0",
   "description": "Is one of the easiest command handlers for Discord.js V12 with alot of features from arguments, error messages, permissions and much more!",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DerpyTechno/derpyhandler.js.git"
+    "url": "git+https://github.com/DerpyTechno/dezirehandler.js.git"
   },
   "keywords": [
     "discord.js",
@@ -19,9 +19,9 @@
   "author": " </DerpyDev>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DerpyTechno/derpyhandler.js/issues"
+    "url": "https://github.com/DerpyTechno/dezirehandler.js/issues"
   },
-  "homepage": "https://github.com/DerpyTechno/derpyhandler.js#readme",
+  "homepage": "https://github.com/DerpyTechno/dezirehandler.js#readme",
   "dependencies": {
     "inlinereply": "^1.0.0"
   }
