@@ -1,6 +1,6 @@
 {
   "name": "dezirehandler.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is one of the easiest command handlers for Discord.js V12 with alot of features from arguments, error messages, permissions and much more!",
   "main": "index.js",
   "scripts": {
