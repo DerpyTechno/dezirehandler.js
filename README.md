@@ -1,4 +1,4 @@
-# DezireHandler.js v1.0.1
+# DezireHandler.js v1.0.2
 Is one of the easiest command handlers for Discord.js V12 with alot of features from arguments, error messages, permissions and much more!
 
 ## DezireHandler Examples
@@ -26,13 +26,13 @@ npm install dezirehandler.js@latest
 ```js
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const cmd = require("dezirehandler");
+const cmd = require("dezirehandler.js");
 
 const handler = new cmd.Handler({
   folder: "./commands", //required
   client: client, //required
-  prefix: process.env.PREFIX, //required
-  owner: ["The owner ID"], //required , add more owner ID's if you would like
+  prefix: "dh!", //required
+  owner: ["The owner ID"], //required, add more owner ID's if you would like
 });
 
 handler.start();

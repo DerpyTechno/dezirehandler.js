@@ -48,4 +48,4 @@ class handler {
 }
 
 module.exports = handler;
-console.log('Currently Using DezireHandler.js v1.0.1!');
+console.log('Currently Using DezireHandler.js v1.0.2!');
