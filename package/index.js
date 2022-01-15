@@ -40,7 +40,7 @@ class handler {
     }
 
     bot.on("message", (message) => {
-      if (!message.content.startsWith(prefix) || message.author.bot) return;
+      if (!message.content.startsWith(prefix) || message.author.bot || message.channel.type == "DM") return;
       const args = message.content.slice(prefix.length).trim().split(/ +/);
       require("./commandHandler")(message, args, bot, owner);
     });
